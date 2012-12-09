@@ -47,3 +47,16 @@ and specifying which marked pieces to include or exclude.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20110829-2
++ Revision: 756507
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20110829-1
++ Revision: 719651
+- texlive-tagging
+- texlive-tagging
+- texlive-tagging
+
