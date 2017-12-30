@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version undef
 Name:		texlive-tagging
-Version:	20110829
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Document configuration with tags
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tagging
