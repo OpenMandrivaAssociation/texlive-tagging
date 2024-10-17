@@ -3,7 +3,7 @@ Version:	52064
 Release:	2
 Summary:	Document configuration with tags
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tagging
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tagging
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tagging.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tagging.doc.r%{version}.tar.xz
